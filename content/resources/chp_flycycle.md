@@ -11,10 +11,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Flycycle
 uid: 90caf715-afa8-50b7-6dc9-05a028d9b17b
 ---
 In his class project, student John Decker Ringo looked at materials selection techniques for the wing spar of the Flycycle human-powered aircraft (HPA). This lightweight airfoil and struts are built with carbon fibre rod, fiberglass, Kevlar cord and Lexan. (Courtesy of Richard P. Synergy. Used with permission.)
-

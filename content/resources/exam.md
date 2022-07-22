@@ -6,6 +6,7 @@ file: /courses/2-994-madm-with-applications-in-material-selection-and-optimal-de
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Take-home exam
 uid: 0e1576ca-3ef0-6fb5-67ce-52cb9513a532
 ---
 Take-home exam on advanced multiple attribute decision making (MADM) models with applications in material selection and optimal design.
-
