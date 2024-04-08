@@ -42,9 +42,9 @@ A modified digital logic method is first used to quantify design preferences for
 
 Projects built with DUCTAL:
 
-[Canopies for Shawnessy Light Rail Transit Station (Calgary, Alberta)](https://www.ductal.com/en/architecture/shawnessy-station)
+{{% resource_link "4e686b61-ae7e-4d61-9ba1-4bbe50e22724" "Canopies for Shawnessy Light Rail Transit Station (Calgary, Alberta)" %}}
 
-[Jumping Trout Public Art Project (Calgary, Alberta)](http://www.cpci.ca/?sc=potm&pn=monthly112006)
+{{% resource_link "5a3bfa33-d398-4d5a-8b57-b87cb8cf61dd" "Jumping Trout Public Art Project (Calgary, Alberta)" %}}
 
 
 {{< tdclose >}}
@@ -65,7 +65,7 @@ A new evaluative criterion for the application of MADM in material selection is 
 
 \[1\] Dehghan-Manshadi, B., H. Mahmudi, A. Abedian, and R. Mahmudi. "A Novel Method for Materials Selection in Mechanical Design: Combination of Non-linear Normalization and a Modified Digital Logic Method." _Materials and Design_ 28, no. 1 (2007): 8-15.
 
-["Flycycle" Human Powered Aircraft](http://peswiki.com/index.php/Directory:Flycycle)
+{{% resource_link "e8e6cbab-beed-40f1-b080-a044eaa43658" "\"Flycycle\" Human Powered Aircraft" %}}
 
 
 {{< tdclose >}}
